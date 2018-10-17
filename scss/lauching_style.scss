@@ -1,0 +1,56 @@
+h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    text-shadow: rgba(97,209,255, 0.5) 2px 2px;
+}
+h2 {
+    color: black;
+    font-size: 45px;
+    font-weight: bolder;
+    text-shadow: rgba(97,209,255, 0.5) 2px 2px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    text-shadow: black 1px 1px;
+    margin-top: 2em;
+    line-height: 2em;
+}
+
+small {
+    color: white;
+    display: block;
+    font-weight: lighter;
+    font-size: 14px;
+    text-shadow: black 1px 1px;
+    margin-top: 3em;
+    a, a:visited{
+        color: white;
+        font-weight: lighter;
+        text-decoration: underline;
+    }
+}
+main {
+    padding-top: 15em;
+}
+
+.notify{
+     background-color: #FA0058;
+     color: white;
+     margin-top: 2em;
+}
+
+.about , .about:visited{
+    background-color: none;
+    border: 1px solid black;
+    color: white;
+    margin-top: 2em;
+}
+
+#time {
+    letter-spacing: .8em;
+    font-size: 30px;
+    text-shadow: rgba(97,209,255, 0.5) 2px 2px;
+}
